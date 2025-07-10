@@ -1,0 +1,7 @@
+body {
+  margin: 0;
+  background: black;
+  color: white;
+  overflow: hidden;
+  font-family: sans-serif;
+}
